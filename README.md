@@ -22,3 +22,5 @@ Examples:
 `Please enter Subname to submit users & hit Enter: OldSchoolCool`
 - Enter full url of sub you want to add users to
 `Enter comment thread url to scrape users from: https://www.reddit.com/r/AskReddit/`
+
+Please contact me on reddit u/edwcarr17 if you have any questions.
