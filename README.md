@@ -11,6 +11,17 @@ Documentation: (PRAW python Reddit API Wrapper)[https://praw.readthedocs.io/en/v
 
 Pip Install: `pip3 install praw`
 
+# Create Reddit OAUTH account
+
+> This is used to updated this section from the code (lines 12-15). (Reddit OAUTH)[https://github.com/reddit-archive/reddit/wiki/oauth2]
+
+Please update this section in the file `collect_and_add.py`.
+> reddit = praw.Reddit(client_id='<your_user_api_client_id>',
+                 client_secret='<client_secret_code',
+                 user_agent='commentExtracterApp:v0.1.0 (by /u/<reddit_user>)',
+                 username='your_username', password='<your_password>')
+
+
 # Run script by running following command:
 
 `python3 collect_and_add.py`
